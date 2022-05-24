@@ -22,13 +22,9 @@ Features:
 
 ## To test
 
-First, run the development server:
-
-```bash
-yarn dev
-# or
-npm run dev
-```
+1. clone the repo
+2. run `yarn install` to install dependencies at root directory.
+3. run `yarn dev` to start development server
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
