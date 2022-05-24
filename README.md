@@ -36,7 +36,7 @@ Features:
 ├── public --static assets
 ├── styles
 ├── tsconfig.json
-├── types  --typescript types
+├── types  --custom types
 └── yarn.lock
 ```
 
